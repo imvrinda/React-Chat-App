@@ -9,9 +9,5 @@ To use this application,
 4. Type " npm install " inside the client directory ( Download Front-end Dependencies )
 
 
-If you have problem, feel free to ask me ^^ 
-
-You can watch the tutorial for this app.
-
-https://www.youtube.com/watch?v=SYP54qp4aMM&t=1082s
+If you have problem, feel free to ask me :)
 
